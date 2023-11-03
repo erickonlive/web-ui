@@ -1,4 +1,5 @@
-Esta es una variante en español
+Esta es una variante en español de
+https://github.com/spotDL/web-ui
 
 git clone the repo
 `npm i`
